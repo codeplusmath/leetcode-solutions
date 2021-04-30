@@ -1,6 +1,6 @@
-![]()
+![](https://github.com/codeplusmath/leetcode-solutions/blob/main/leet-code.png)
 
-LeetCode Algorithm
+Algorithm Based Problems
 ====
 
 
