@@ -1,11 +1,8 @@
-# leetcode-solutions
+![]()
 
-LeetCode
-========
+LeetCode Algorithm
+====
 
-### LeetCode Algorithm
-
-----
 
 | # | Problem | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
