@@ -1,18 +1,14 @@
 # leetcode-solutions
 
-### 1. Two Sum
+LeetCode
+========
 
-* Problem : https://leetcode.com/problems/two-sum
-
-* Solution : https://github.com/codeplusmath/leetcode-solutions/blob/main/Two_Sum.cpp
-
-----
-
-
-### 2. Add Two Numbers
-
-* Problem : https://leetcode.com/problems/add-two-numbers/
-
-* Solution : https://github.com/codeplusmath/leetcode-solutions/blob/main/Add-Two-Numbers.cpp
+### LeetCode Algorithm
 
 ----
+
+| # | Problem | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[Two Sum](https://leetcode.com/problems/two-sum) | [C++](https://github.com/codeplusmath/leetcode-solutions/blob/main/Two_Sum.cpp)|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](https://github.com/codeplusmath/leetcode-solutions/blob/main/Add-Two-Numbers.cpp)|Medium|
+
