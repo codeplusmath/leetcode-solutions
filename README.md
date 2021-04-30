@@ -13,6 +13,6 @@
 
 * Problem : https://leetcode.com/problems/add-two-numbers/
 
-* Solution : https://github.com/codeplusmath/leetcode-solutions/blob/main/Two_Sum.cpp
+* Solution : https://github.com/codeplusmath/leetcode-solutions/blob/main/Add-Two-Numbers.cpp
 
 ----
