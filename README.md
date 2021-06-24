@@ -11,3 +11,4 @@ Algorithm Based Problems
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](https://github.com/codeplusmath/leetcode-solutions/blob/main/Add-Two-Numbers.cpp)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](https://github.com/codeplusmath/leetcode-solutions/blob/main/Median-of-Two-Sorted-Arrays.cpp)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](https://github.com/codeplusmath/leetcode-solutions/blob/main/Longest-Palindromic-Substring.cpp)|Medium|
+|6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](https://github.com/codeplusmath/leetcode-solutions/blob/main/6-Zigzag.cpp)|Medium|
